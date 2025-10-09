@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "login-background",
+      "description": "A subtle illustration of a modern building exterior, representing a hostel.",
+      "imageUrl": "https://picsum.photos/seed/hostel-exterior/1920/1080",
+      "imageHint": "hostel building"
+    }
+  ]
+}
